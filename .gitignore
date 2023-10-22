@@ -3,3 +3,8 @@
 ################################################################################
 
 /Ritek.App/Ritek.App.Demo/obj
+/Ritek.App/Ritek.App.Infrastructure/obj
+/Ritek.App/Ritek.App.Infrastructure/bin/Debug
+/Ritek.App/packages
+/Ritek.App/.vs/Ritek.App/v16
+/.vs
